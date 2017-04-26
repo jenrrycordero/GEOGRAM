@@ -18,3 +18,7 @@ Chrome extension I'm using to make JSON responses readable in the browser:
 
 https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
 
+Postman Chrome Extension (To check API http requests and responses)
+https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en
+
+
