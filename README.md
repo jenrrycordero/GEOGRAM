@@ -2,7 +2,7 @@
 Instagram REST application with five second AJAX refresh.
 A simple application to lookup Instagram photos by location.
 
-# Description: Tthis is a simple web application which converts a location into latitude and longitude using the Google Maps API. Then it uses those coordinates to pull images taken in that location from the Instagram API.
+# Description: This is a simple web application which converts a location into latitude and longitude using the Google Maps API. Then it uses those coordinates to pull images taken in that location from the Instagram API.
 
 Example Google Maps API call:
 https://maps.googleapis.com/maps/api/geocode/json?address=disneyland,ca
